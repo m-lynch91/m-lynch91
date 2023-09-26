@@ -26,11 +26,12 @@ My personal highlights from school:
 2. Building out an Enigma machine in Java.
 3. Using C++ to implement several data structures and algorithms
 
-What I'm looking forward to in later semesters:
-1. Getting hands on with ReactJS and Angular
-2. Advanced C# topics
-3. More practice with Azure / AWS devops
-4. More courses in mobile development
+What I'm looking forward to in my upcoming semesters:
+1. Getting hands on with ReactJS, GraphQL, MongoDB (Winter 2024)
+2. Advanced C# topics (Winter 2024)
+3. Getting hands on with Angular (Fall 2024)
+4. More practice with Azure / AWS devops
+5. More courses in mobile development (Winter / Fall 2024)
 
 Languages
 C | C++ | C# | Java | JavaScript | Python | SQL | COBOL | HTML5 | CSS3
