@@ -32,3 +32,8 @@ What I'm looking forward to in later semesters:
 3. More practice with Azure / AWS devops
 4. More courses in mobile development
 
+Languages
+C | C++ | C# | Java | JavaScript | Python | SQL | COBOL | HTML5 | CSS3
+
+Technologies
+jQuery | Vue.js | Quasar | Node.js | JSF | Blazor | Radzen | ASP.Net Core | Entity Core Framework | MySQL | SQL Server | Azure DevOps | AWS | Oracle WebLogic
