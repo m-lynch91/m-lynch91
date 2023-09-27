@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently undergoing a career transiation! I was previously employed as a chemical laboratory technologist in the Oil&Gas industry. I had graduated from Fanshawe College with an advanced diploma in Environmental Technology. After almost 6 years in the industry, I built up the courage to chase after a dream I've had for my whole adult life... pursing a career in software development!
+I'm currently undergoing a career transiation! I was previously employed as a chemical laboratory technologist in the Oil&Gas industry. I had graduated from Fanshawe College with an advanced diploma in Environmental Technology. After almost 6 years in the industry, I built up the courage to chase after a dream I've had for my whole adult life... pursuing a career in software development!
 
 Now, I'm a student at Fanshawe College again, enrolled in Computer Programming and Analysis. And I'm loving it. Currently, I'm in my second co-op work term working for the Royal Canadian Mounted Police!
 
