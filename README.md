@@ -34,7 +34,9 @@ What I'm looking forward to in my upcoming semesters:
 5. More courses in mobile development (Winter / Fall 2024)
 
 Languages
+
 C | C++ | C# | Java | JavaScript | Python | SQL | COBOL | HTML5 | CSS3
 
 Technologies
+
 jQuery | Vue.js | Quasar | Node.js | JSF | Blazor | Radzen | ASP.Net Core | Entity Core Framework | MySQL | SQL Server | Azure DevOps | AWS | Oracle WebLogic
