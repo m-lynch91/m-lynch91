@@ -39,4 +39,4 @@ C | C++ | C# | Java | JavaScript | Python | SQL | COBOL | HTML5 | CSS3
 
 Technologies
 
-jQuery | Vue.js | Quasar | Node.js | JSF | Blazor | Radzen | ASP.Net Core | Entity Core Framework | MySQL | SQL Server | Azure DevOps | AWS | Oracle WebLogic
+jQuery | Vue.js | Quasar | Node.js | JSF | Blazor | Radzen | ASP.Net Core | Entity Core Framework | MySQL | SQL Server | Azure DevOps | AWS | Oracle WebLogic| Git | GitHub | GitLab
