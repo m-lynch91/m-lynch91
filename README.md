@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm currently undergoing a career transition! I was previously employed as a chemical laboratory technologist in the Oil & Gas industry. I had graduated from Fanshawe College with an advanced diploma in Environmental Technology. After almost 6 years in the industry, I built up the courage to chase after a dream I've had for my whole adult life... pursuing a career in software development!
 
-Now, I'm a student at Fanshawe College again, enrolled in Computer Programming and Analysis. And I'm loving it. Currently, I'm in my second co-op work term working for the Royal Canadian Mounted Police!
+Now, I'm a student at Fanshawe College again, enrolled in Computer Programming and Analysis. And I'm loving it. Currently, I'm in my 5th semester and I'm excited to be working part-time remotely for the Royal Canadian Mounted Police!
 
 On my own time, I'm excited about learning Python and once I've finished with Al Sweigart's "Automate the Boring Stuff with Python", I'm eager to try my hand at building a web api with Django or Flask. Still haven't decided which yet.
 
