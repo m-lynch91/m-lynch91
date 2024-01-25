@@ -19,8 +19,6 @@ I'm currently undergoing a career transition! I was previously employed as a che
 
 Now, I'm a student at Fanshawe College again, enrolled in Computer Programming and Analysis. And I'm loving it. Currently, I'm in my 5th semester and I'm excited to be working part-time remotely for the Royal Canadian Mounted Police!
 
-On my own time, I'm excited about learning Python and once I've finished with Al Sweigart's "Automate the Boring Stuff with Python", I'm eager to try my hand at building a web api with Django or Flask. Still haven't decided which yet.
-
 My personal highlights from school:
 1. Building web APIs using C# / ASP.Net Core and pairing them with front-end frameworks (jQuery, Vue.js / Quasar)
 2. Building out an Enigma machine in Java.
@@ -35,7 +33,7 @@ What I'm looking forward to in my upcoming semesters:
 
 Languages
 
-C | C++ | C# | Java | JavaScript | Python | SQL | COBOL | HTML5 | CSS3
+C | C++ | C# | Java | JavaScript | SQL | COBOL | HTML5 | CSS3
 
 Technologies
 
