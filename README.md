@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Software developer with a passion for getting hands-on experience with every component of the tech stack! 
+Full-stack software developer with over 2 years of professional software development experience and over 5 years of quality assurance experience. I have a proven track record of delivering enterprise web applications in the federal law enforcement and international trade and customs industries.
+
+Expertise in developing application front-ends by programming in JavaScript and TypeScript with the React framework. Specialized in programming in Java with Spring Boot, C# with .NET, and NodeJs to create RESTful API services to bridge the connection between front-end frameworks and databases. Proficient in creating, modifying, and streamlining relational SQL and document based NoSQL database schema.
+
+With a career of quality assurance behind me and a strong academic background in computer science, I am passionate about mastering different technologies. I am proficient in multi-layered architectures, utilizing the perfect data structures and algorithms and taking advantage of the right software design patterns.
